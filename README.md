@@ -2,9 +2,10 @@
 
 **▶ Open the demo: https://vsharkindia.github.io/crm-demo/**
 
-A full business-management web app built by [VShark Solutions](https://www.vsharksolutions.com):
-CRM, quotations, projects, invoicing and a finance dashboard, used day to day by an
-engineering-services and equipment-trading company in India, the USA and the UAE.
+A business-management web app built by VShark Solutions. The CRM, quotation, project
+and invoicing modules are based on the system an engineering-services and equipment-trading
+company uses day to day across India, the USA and the UAE. The Finance dashboard was
+added for this demo to show the kind of reporting we can build.
 
 This online version runs the **real application code** entirely in your browser, with
 sample data. Nothing you do is sent anywhere, and you can reset it at any time.
@@ -33,7 +34,3 @@ In this demo the Express API and SQLite database run in the browser using WebAss
 (sql.js), so it can be hosted as a static site.
 
 File uploads and email/Telegram notifications are turned off in the online demo.
-
----
-
-Need something similar for your business? → [vsharksolutions.com](https://www.vsharksolutions.com)
